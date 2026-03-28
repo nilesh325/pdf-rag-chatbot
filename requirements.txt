@@ -1,0 +1,7 @@
+streamlit
+PyPDF2
+langchain-text-splitters
+langchain-community
+langchain-mistralai
+langgraph
+
