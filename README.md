@@ -50,7 +50,7 @@ A Retrieval-Augmented Generation (RAG) chatbot built with Streamlit that lets yo
 │                                                 │
 │   ┌──────────┐          ┌──────────┐            │
 │   │ retrieve │ ───────► │ answer   │            │
-│   │  node   │          │  node    │            │
+│   │  node    │          │  node    │            │
 │   └──────────┘          └──────────┘            │
 │   Loads matched         Sends docs +            │
 │   docs into state       question to LLM         │
@@ -127,5 +127,4 @@ langchain-community
 langchain-mistralai
 langgraph
 ```
-md…]()
 
