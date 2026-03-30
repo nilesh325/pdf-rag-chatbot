@@ -21,7 +21,7 @@ A Retrieval-Augmented Generation (RAG) chatbot built with Streamlit that lets yo
        ▼
 ┌─────────────────────────┐
 │  RecursiveCharacter     │  ── Split text into chunks
-│  TextSplitter           │     (1000 chars, 150 overlap)
+│  TextSplitter           │    
 └─────────────────────────┘
        │
        ▼
@@ -59,7 +59,7 @@ A Retrieval-Augmented Generation (RAG) chatbot built with Streamlit that lets yo
        ▼
 ┌─────────────┐
 │  Mistral AI │  ── Generate final answer
-│  (LLM)      │     based on retrieved docs
+│  (LLM)      │     based on retrieved docs & (within no. of max_tokens) 
 └─────────────┘
        │
        ▼
