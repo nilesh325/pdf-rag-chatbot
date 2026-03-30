@@ -4,4 +4,4 @@ langchain-text-splitters
 langchain-community
 langchain-mistralai
 langgraph
-
+sentence-transformers
