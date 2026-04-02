@@ -8,7 +8,7 @@ from langgraph.graph import StateGraph
 import math
 import re
 
-mistral_api_key = "diekRCMZhHW7GP14HpuVnL6OWV0Wiqu0"
+mistral_api_key = "enter_your_mistral_api_key"
 
 st.header("My Chatbot")
 #Sidebar
